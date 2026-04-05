@@ -7,12 +7,12 @@ import { Play, Pause, Heart } from 'lucide-react';
 const storyData = [
   {
     id: 'a',
-    title: 'Awal Pertemuan',
+    title: 'Hanya Kamu',
     desc: 'Di antara ribuan wajah, mataku hanya tertuju padamu. Sebuah kebetulan yang kini kuamini sebagai takdir terindah.',
   },
   {
     id: 'b',
-    title: 'Senyum Pertamamu',
+    title: 'Senyum Indahmu',
     desc: 'Senyum itu... lengkungan sederhana yang berhasil meruntuhkan segala pertahananku sejak hari pertama.',
   },
   {
